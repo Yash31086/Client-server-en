@@ -1,0 +1,21 @@
+{
+  "name": "secure-login-demo",
+  "version": "1.0.0",
+  "description": "A simple demonstration of secure password hashing using Node.js and Bcrypt.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "login",
+    "security",
+    "bcrypt",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2"
+  }
+}
